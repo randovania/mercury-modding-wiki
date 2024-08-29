@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mercury Modding Wiki</title>
-    <link>https://randovania.github.io/mercury-modding-wiki/formats/bmscd/</link>
+    <link>https://randovania.org/mercury-modding-wiki/formats/bmscd/</link>
     <description>Recent content on Mercury Modding Wiki</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://randovania.github.io/mercury-modding-wiki/formats/bmscd/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://randovania.org/mercury-modding-wiki/formats/bmscd/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

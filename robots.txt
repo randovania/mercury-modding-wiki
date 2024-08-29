@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /tags/*
 
-Sitemap: https://randovania.github.io/mercury-modding-wiki/sitemap.xml
+Sitemap: https://randovania.org/mercury-modding-wiki/sitemap.xml
