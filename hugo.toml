@@ -1,4 +1,4 @@
-baseURL = "https://randovania.github.io/mercury-modding-wiki"
+baseURL = "https://randovania.org/mercury-modding-wiki"
 languageCode = 'en-us'
 title = "Mercury Modding Wiki"
 theme = "hugo-geekdoc"
