@@ -120,6 +120,8 @@ enableRobotsTXT = true
   # Add optional page description to the search result list.
   geekdocSearchShowDescription = true
 
+  description = "Welcome to the Mercury Modding Wiki, an encyclopedia about modding and hacking games from Mercury Steam."
+
   # (Optional, default none) Adds a "Content licensed under <license>" line to the footer.
   # Could be used if you want to define a default license for your content.
   [params.geekdocContentLicense]
