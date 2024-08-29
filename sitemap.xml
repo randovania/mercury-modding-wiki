@@ -2,11 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://randovania.org/mercury-modding-wiki/games/</loc>
+    <lastmod>2024-08-29T16:01:12+02:00</lastmod>
+  </url><url>
     <loc>https://randovania.org/mercury-modding-wiki/</loc>
-    <lastmod>2024-08-29T14:42:49+02:00</lastmod>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
   </url><url>
     <loc>https://randovania.org/mercury-modding-wiki/formats/</loc>
-    <lastmod>2024-08-29T14:42:49+02:00</lastmod>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
+  </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/bapd/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
   </url><url>
     <loc>https://randovania.org/mercury-modding-wiki/formats/bccam/</loc>
     <lastmod>2024-08-29T14:42:49+02:00</lastmod>
@@ -26,23 +32,56 @@
     <loc>https://randovania.org/mercury-modding-wiki/formats/bctex/</loc>
     <lastmod>2024-08-29T14:42:49+02:00</lastmod>
   </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/bcurv/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
+  </url><url>
     <loc>https://randovania.org/mercury-modding-wiki/formats/bcut/</loc>
     <lastmod>2024-08-29T14:42:49+02:00</lastmod>
   </url><url>
     <loc>https://randovania.org/mercury-modding-wiki/formats/bcwav/</loc>
     <lastmod>2024-08-29T14:42:49+02:00</lastmod>
   </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/bfgrp/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
+  </url><url>
     <loc>https://randovania.org/mercury-modding-wiki/formats/bfont/</loc>
     <lastmod>2024-08-29T14:42:49+02:00</lastmod>
+  </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/bfsar/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
+  </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/bfstm/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
+  </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/bgsnds/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
+  </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/bldef/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
   </url><url>
     <loc>https://randovania.org/mercury-modding-wiki/formats/blsnd/</loc>
     <lastmod>2024-08-29T14:42:49+02:00</lastmod>
   </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/blut/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
+  </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/bmbls/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
+  </url><url>
     <loc>https://randovania.org/mercury-modding-wiki/formats/bmdefs/</loc>
     <lastmod>2024-08-29T14:42:49+02:00</lastmod>
   </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/bmmap/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
+  </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/bmmdef/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
+  </url><url>
     <loc>https://randovania.org/mercury-modding-wiki/formats/bmsad/</loc>
     <lastmod>2024-08-29T14:42:49+02:00</lastmod>
+  </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/bmsas/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
   </url><url>
     <loc>https://randovania.org/mercury-modding-wiki/formats/bmsat/</loc>
     <lastmod>2024-08-29T14:42:49+02:00</lastmod>
@@ -55,6 +94,9 @@
   </url><url>
     <loc>https://randovania.org/mercury-modding-wiki/formats/bmscd/</loc>
     <lastmod>2024-08-29T14:42:49+02:00</lastmod>
+  </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/bmscp/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
   </url><url>
     <loc>https://randovania.org/mercury-modding-wiki/formats/bmscu/</loc>
     <lastmod>2024-08-29T14:42:49+02:00</lastmod>
@@ -70,6 +112,12 @@
   </url><url>
     <loc>https://randovania.org/mercury-modding-wiki/formats/bmsld/</loc>
     <lastmod>2024-08-29T14:42:49+02:00</lastmod>
+  </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/bmslgroup/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
+  </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/bmslink/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
   </url><url>
     <loc>https://randovania.org/mercury-modding-wiki/formats/bmsmd/</loc>
     <lastmod>2024-08-29T14:42:49+02:00</lastmod>
@@ -89,17 +137,80 @@
     <loc>https://randovania.org/mercury-modding-wiki/formats/bmssd/</loc>
     <lastmod>2024-08-29T14:42:49+02:00</lastmod>
   </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/bmssh/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
+  </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/bmssk/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
+  </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/bmsss/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
+  </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/bmsstoc/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
+  </url><url>
     <loc>https://randovania.org/mercury-modding-wiki/formats/bmtre/</loc>
     <lastmod>2024-08-29T14:42:49+02:00</lastmod>
   </url><url>
     <loc>https://randovania.org/mercury-modding-wiki/formats/bmtun/</loc>
     <lastmod>2024-08-29T14:42:49+02:00</lastmod>
   </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/bnvib/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
+  </url><url>
     <loc>https://randovania.org/mercury-modding-wiki/formats/bpsi/</loc>
     <lastmod>2024-08-29T14:42:49+02:00</lastmod>
   </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/bptdat/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
+  </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/bptdef/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
+  </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/brem/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
+  </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/bres/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
+  </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/brev/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
+  </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/brfld/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
+  </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/brsa/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
+  </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/brspd/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
+  </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/bshdat/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
+  </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/bsmat/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
+  </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/btunda/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
+  </url><url>
     <loc>https://randovania.org/mercury-modding-wiki/formats/buct/</loc>
     <lastmod>2024-08-29T14:42:49+02:00</lastmod>
+  </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/pkg/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
+  </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/toc/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
+  </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/formats/txt/</loc>
+    <lastmod>2024-08-29T15:44:28+02:00</lastmod>
+  </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/games/dread/</loc>
+    <lastmod>2024-08-29T16:01:12+02:00</lastmod>
+  </url><url>
+    <loc>https://randovania.org/mercury-modding-wiki/games/msr/</loc>
+    <lastmod>2024-08-29T16:01:12+02:00</lastmod>
   </url><url>
     <loc>https://randovania.org/mercury-modding-wiki/tags/</loc>
   </url>
