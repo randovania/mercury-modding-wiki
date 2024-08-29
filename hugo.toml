@@ -117,6 +117,9 @@ enableRobotsTXT = true
   # e.g. 'title_reverse'.
   geekdocFileTreeSortBy = "title"
 
+  # Add optional page description to the search result list.
+  geekdocSearchShowDescription = true
+
   # (Optional, default none) Adds a "Content licensed under <license>" line to the footer.
   # Could be used if you want to define a default license for your content.
   [params.geekdocContentLicense]
